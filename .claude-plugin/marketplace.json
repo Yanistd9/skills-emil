@@ -1,0 +1,11 @@
+{
+  "name": "emil-skills",
+  "owner": { "name": "Emil Kowalski" },
+  "plugins": [
+    {
+      "name": "emil-design-skills",
+      "description": "20 skills d'Emil Kowalski pour le design d'interface et les animations",
+      "source": "./"
+    }
+  ]
+}
